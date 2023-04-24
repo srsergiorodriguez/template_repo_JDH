@@ -1,8 +1,3 @@
 jupyter-contrib-nbextensions==0.5.1
-pandas
-numpy
-opencv-python-headless
-scikit-image
-observable_jupyter
-pillow
-matplotlib
+pandas==1.3.5
+observable_jupyter==0.1.14
